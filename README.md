@@ -24,4 +24,15 @@ use purge-wrangler: https://github.com/mayankk2308/purge-wrangler/wiki/Beginner'
  
 https://egpu.io/forums/postid/81651/
  
- 
+### Disable Auto Update
+
+https://wccftech.com/how-to/how-to-disable-windows-10-automatic-updates/
+
+- press `Windows` + `R`
+- type `services.msc`
+- search service `Windows Update`
+- stop the service
+- open service properties
+- set `startup type` to `disable`
+
+
