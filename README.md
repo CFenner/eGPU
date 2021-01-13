@@ -22,6 +22,8 @@ use purge-wrangler: https://github.com/mayankk2308/purge-wrangler/wiki/Beginner'
 
 Download iso https://tb.rg-adguard.net/public.php
 
+ReplacePlastic pci.System https://egpu.io/forums/pc-setup/egpu-fail-after-update-to-windows-19-03/paged/56/#post-77069
+
 ### Build
 
 https://egpu.io/forums/builds/2015-13-macbook-pro-retina-5th2cu-rx570-tb2tb3-powercolor-mini-pro-win10/
