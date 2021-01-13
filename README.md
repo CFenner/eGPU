@@ -20,6 +20,8 @@ use purge-wrangler: https://github.com/mayankk2308/purge-wrangler/wiki/Beginner'
 
 ## Windows 10
 
+Download iso https://tb.rg-adguard.net/public.php
+
 ### Build
 
 https://egpu.io/forums/builds/2015-13-macbook-pro-retina-5th2cu-rx570-tb2tb3-powercolor-mini-pro-win10/
