@@ -20,6 +20,10 @@ use purge-wrangler: https://github.com/mayankk2308/purge-wrangler/wiki/Beginner'
 
 ## Windows 10
 
+### Build
+
+https://egpu.io/forums/builds/2015-13-macbook-pro-retina-5th2cu-rx570-tb2tb3-powercolor-mini-pro-win10/
+
 ### Error 12
  
 https://egpu.io/forums/postid/81651/
