@@ -42,4 +42,13 @@ https://wccftech.com/how-to/how-to-disable-windows-10-automatic-updates/
 - open service properties
 - set `startup type` to `disable`
 
+### Disable PCIe Devices
+
+eGPU is connected to PCI Express Root Port #5, PCI Express Root Port #6 is the SSD, disable the rest.
+
+- PCI Express Root Port #2 -> ?
+- PCI Express Root Port #2 -> FaceTime Camera
+- PCI Express Root Port #3 -> WiFi Adapter -> Connection via Thunderbolt Adapter
+
+
 
